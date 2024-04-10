@@ -15,8 +15,8 @@
 body {
     font-family: var(--font-roboto);
     background: #780206;
-    background: -webkit-linear-gradient(to right, #061161, #780206);
-    background: linear-gradient(to right, #061161, #780206);
+    background: -webkit-linear-gradient(to right, #5463d1, #c13439);
+    background: linear-gradient(to right, #9295ab, #c95b5f);
 }
 
 .app {
